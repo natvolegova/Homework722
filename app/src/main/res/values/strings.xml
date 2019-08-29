@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework722</string>
+    <string name="et_number">Номер телефона</string>
+    <string name="et_text">Текст сообщения</string>
+    <string name="btn_call">Позвонить</string>
+    <string name="btn_send_sms">Отправить СМС</string>
+    <string name="msg_error_no_number">Не указан номер</string>
+    <string name="txt_chooser">Отправить смс с помощью</string>
+    <string name="txt_btn_group_name1">Прямой запуск</string>
+    <string name="txt_btn_group_name2">Запуск с предпросмотром</string>
+</resources>
